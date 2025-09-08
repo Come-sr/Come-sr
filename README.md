@@ -91,15 +91,7 @@ Salut ! Je suis **Côme Servy**, étudiant passionné en **Licence Administrateu
 
 ## 📞 Contact
 
-<div align="center">
 
-### 💬 Discutons de votre projet !
-
-[![Email](https://img.shields.io/badge/Email-pm@comesr.art-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pm@comesr.art)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Côme%20Servy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/comesrv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=github&logoColor=white)](https://come-sr.github.io/Portfolio)
-
-</div>
 
 ---
 
