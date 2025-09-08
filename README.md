@@ -1,14 +1,16 @@
 <div align="center">
 
-# 🚀 Côme
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Côme+Servy;💻+Cybersécurité+%26+Infrastructure;🎯+Étudiant+passionné;⚡+En+alternance+%40+Hésias" alt="Typing SVG" />
 
-### Étudiant en Cybersécurité & Administration d'Infrastructures
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live-blue?style=for-the-badge&logo=github)](https://comesr.art)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/comesrv)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pm@comesr.art)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit%20Live-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://comesr.art)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/comesrv)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:pm@comesr.art)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
