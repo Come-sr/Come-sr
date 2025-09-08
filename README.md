@@ -12,10 +12,6 @@
 
 </div>
 
-## 👋 À propos de moi
-
-Salut ! Je suis **Côme Servy**, étudiant passionné en **Licence Administrateur d'Infrastructures Sécurisées** à Hésias. Actuellement en **L3 en alternance** au Pôle Universitaire de Vichy, je me spécialise dans la cybersécurité, l'administration système et la gestion d'infrastructures réseau.
-
 ### 🎯 Mon parcours
 - **BAC +3** - Licence Administrateur d'Infrastructures Sécurisées (Hésias) - *En cours*
 - **BTS SIO** - Services Informatiques aux Organisations, Option SISR - *Obtenu en 2025*
