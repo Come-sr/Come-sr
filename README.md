@@ -45,28 +45,6 @@ Salut ! Je suis **Côme Servy**, étudiant passionné en **Licence Administrateu
 
 ---
 
-## 🚀 Projets Récents
-
-### 🏢 **Administration Infrastructure** - *Alternance Pôle Universitaire de Vichy*
-- Gestion des incidents et suivi du SI
-- Maintenance préventive et corrective
-- Support utilisateurs et documentation
-
-### 🔧 **Déploiement GLPI** - *Projet phare d'alternance*
-- Configuration des règles d'assignation
-- Import des équipements réseau
-- Mise en place du ticketing avec collecteur mail
-- Documentation complète du processus
-
-### 🐳 **Infrastructure Docker** - *Épreuve BTS SIO*
-- Infrastructure complète sur Docker
-- Portainer pour la gestion des conteneurs
-- Wiki.js pour la documentation
-- Stirling-PDF pour les conversions
-- n-tools pour les utilitaires réseau
-
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
@@ -81,25 +59,9 @@ Salut ! Je suis **Côme Servy**, étudiant passionné en **Licence Administrateu
 
 ---
 
-## 🎯 Objectifs 2025
-
-- [ ] Finaliser ma Licence Administrateur d'Infrastructures Sécurisées
-- [ ] Approfondir mes connaissances en cybersécurité
-- [ ] Développer des projets open-source
-
----
-
-## 📞 Contact
-
-
-
----
-
 <div align="center">
 
-### 🌟 *"Chaque jour est une nouvelle opportunité d'apprendre et de grandir dans le domaine de la cybersécurité"*
-
-**Merci de visiter mon profil !** ⭐
+### 🌟 *"Chaque jour est une nouvelle opportunité d'apprendre et de grandir"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=come-sr&color=blueviolet&style=flat-square)
 
