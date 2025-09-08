@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Côme Servy - Portfolio
+# 🚀 Côme
 
 ### Étudiant en Cybersécurité & Administration d'Infrastructures
 
