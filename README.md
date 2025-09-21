@@ -13,8 +13,7 @@
 ## 🏢 Expérience
 
 - **Alternance** - Pôle Universitaire de Vichy
-- **Spécialisation** - Cybersécurité & Infrastructure
-- **Focus** - Administration système & réseaux
+- **Spécialisation** - Cybersécurité, DevOps Infrastructure
 
 ---
 
